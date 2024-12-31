@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uC591\uD604\uADDC\\source\\repos\\Paint\\",
+  "WorkspaceRootPath": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\PaintGame\\Paint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C574B01-A422-4F69-ABE4-ACE11359204A}|Test\\Test.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\source\\repos\\Paint\\Test\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0C574B01-A422-4F69-ABE4-ACE11359204A}|Test\\Test.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\PaintGame\\Paint\\Test\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0C574B01-A422-4F69-ABE4-ACE11359204A}|Test\\Test.vcxproj|solutionrelative:Test\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D37B0288-BCA7-4A68-8895-2490234D732F}|Paint\\Paint.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\source\\repos\\Paint\\Paint\\Paint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D37B0288-BCA7-4A68-8895-2490234D732F}|Paint\\Paint.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\PaintGame\\Paint\\Paint\\Paint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D37B0288-BCA7-4A68-8895-2490234D732F}|Paint\\Paint.vcxproj|solutionrelative:Paint\\Paint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\source\\repos\\Paint\\Test\\Source.c",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\PaintGame\\Paint\\Test\\Source.c",
               "RelativeDocumentMoniker": "Test\\Source.c",
-              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\source\\repos\\Paint\\Test\\Source.c",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\PaintGame\\Paint\\Test\\Source.c",
               "RelativeToolTip": "Test\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-23T09:56:03.841Z",
               "EditorCaption": ""
@@ -37,13 +37,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Paint.c",
-              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\source\\repos\\Paint\\Paint\\Paint.c",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\PaintGame\\Paint\\Paint\\Paint.c",
               "RelativeDocumentMoniker": "Paint\\Paint.c",
-              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\source\\repos\\Paint\\Paint\\Paint.c",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\PaintGame\\Paint\\Paint\\Paint.c",
               "RelativeToolTip": "Paint\\Paint.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-23T09:31:08.999Z"
+              "WhenOpened": "2024-12-23T09:31:08.999Z",
+              "EditorCaption": ""
             }
           ]
         }
